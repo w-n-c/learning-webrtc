@@ -1,0 +1,16 @@
+{
+  "name": "learning_WebRTC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+      "start": "nodemon index.js"
+  },
+  "repository": "git@github.com:w-n-c/learning-webrtc.git",
+  "author": "Will Newell <newellwm@gmail.com>",
+  "private": "true",
+  "license": "MIT",
+  "devDependencies": {
+    "node-static": "^0.7.11",
+    "nodemon": "^2.0.2"
+  }
+}
